@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdullah101130
+- 👋 Hi, I’m @ZaynCHI
 - 👀 I’m interested in Ethical Hacking 
 - 🌱 I’m currently learning Programmer
 - 💞️ I’m looking to collaborate on Begginers
